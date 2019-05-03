@@ -12,3 +12,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.weather{
+  margin-top: 30px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.form-group {
+  width: 275px;
+  margin: 0px auto;
+}
+
+.input-group {
+  width: 275px;
+  margin: 0px auto;
+}
+
